@@ -1,0 +1,4 @@
+edu\aubg\services\UploadService.class
+edu\aubg\services\UploadServiceResponse.class
+edu\aubg\server\MyServer.class
+edu\aubg\client\MyClient.class
